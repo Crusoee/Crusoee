@@ -1,3 +1,9 @@
+More Projects I've been apart of:
+-------------------------------------------------
+https://github.com/JackMcGinty/for-the-child
+
+https://gitlab.com/sodo-launch-pad/soar/soarcubed
+
 - 👋 Hi, I’m @Andrew Benchley Leland
 - 👀 I’m interested in coding on intuitive projects
 - 🌱 I’m currently learning machine learning
